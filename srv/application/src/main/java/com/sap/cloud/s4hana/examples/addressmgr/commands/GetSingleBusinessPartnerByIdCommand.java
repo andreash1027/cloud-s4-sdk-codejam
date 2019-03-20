@@ -1,4 +1,4 @@
-package com.sap.cloud.s4hana.examples.addressmgr.commands;
+	package com.sap.cloud.s4hana.examples.addressmgr.commands;
 
 import org.slf4j.Logger;
 
